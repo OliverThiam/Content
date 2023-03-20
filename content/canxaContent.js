@@ -19,14 +19,12 @@ export const heroContent = {
 
 export const aboutUsContent = {
   title: "Über uns",
-  description: `Von Webdesign bis Suchmaschinenoptimierung, 
-                wir helfen dir dabei deine Konkurrenz in den Schatten zu stellen.
+  description: `Du bist auf der Suche nach der perfekten Webseite für deinen Betrieb, dann bist du bei uns genau richtig!
                 Hier werden deine Gedanken und Fantasien in Webseiten umgewandelt.
-                Wir sind eine Gruppe aus Webdesign Spezialisten geschaffen um deinem Unternehmen die Tür in 
-                die Online Welt zu öffnen.
-                Wenn du deinen Traffic, deinen Umsatz und deine Sichtbarkeit steigern möchtest, kannst du gerne einen kostenlosen Termin 
-                über unser Kontaktformular erstellen.`,
-  checkBox1: "Top Coder",
+                Von Webdesign bis Suchmaschinenoptimierung, wir helfen dir dabei deine Konkurrenz in den Schatten zu stellen.
+                Wenn du deinen Traffic, deinen Umsatz und deine Sichtbarkeit steigern möchtest, kannst du uns gerne 
+                über unser Kontaktformular kostenlos kontaktieren.`,
+  checkBox1: "Top Web-Developer",
   checkBox2: "Top Preise",
   checkBox3: "Top Beratung",
   checkBox4: "Top Webseite",
@@ -49,8 +47,8 @@ export const servicesContent = {
   service2: {
     packageName: "Paket M",
     price: "€ 249,-",
-    description: `Möchtest du deine Kunden informieren und ihnen 
-                  deine Dienstleistungen/ dein Produkt optimal näher bringen, ist dieses Paket das richtige.`,
+    description: `Brauchst du eine Informative Webseite und möchtest, dass wir das Hosting übernehmen. 
+                  Dann empfehlen wir Paket M.`,
     listElement1: "bis zu 2 Inhaltsseite",
     listElement2: "Kontaktformular, Suchfunktion",
     listElement3: "Responsives Design kannst du das als Link darstellen",
@@ -61,8 +59,8 @@ export const servicesContent = {
     packageName: "Paket L",
     price: "€ 449,-",
     description: `Suchst du eine Möglichkeit dein Traffic zu erhöhen,
-                  die perfekte Webseiten zu besitzen und deine Webseite in Zukunft
-                   selber neu zu gestalten, dann wähle dieses Paket.`,
+                  die perfekte Webseite zu besitzen und den Content deiner Webseite in Zukunft
+                  selber zu gestalten, dann wähle dieses Paket.`,
     listElement1: "1 Inhaltsseite",
     listElement2: "Kontaktformular, Suchfunktion",
     listElement3: "Content Management",
@@ -84,19 +82,18 @@ export const processContent = {
   process3: {
     header: "3. Webdesign Umsetzung",
     description: `Wir designen deine Webseite, nach den aktuellsten Webdesign-Trends, genauso wie du es dir vorstellst.
-                 Möchtest du wissen wie weit deine Webseite im Entstehungsprozess ist kann du uns jederzeit erreichen und 
-                 den aktuellen Stand abfragen. So hast du die Möglichkeit bei Mängeln direkt enzuschreiten(Event. hier mit dem Wort transparent arbeiten)`,
+                  `,
   },
   process4: {
     header: "4. Optimierung für Suchmaschinen",
     description: `Mithilfe unsere Expertise in Suchmaschinenoptimierung und der Unterstützung modernster
-                   SEO-Tools erschaffen deine Webseite. Durch genaue Plazierung sogenannter Keywords wird
+                   SEO-Tools erschaffen wir deine Webseite. Durch genaue Plazierung sogenannter Keywords wird
                     es möglich deine Webseite an der Spitze der Suchergebnisse anzeigen zu lassen.`,
   },
   process5: {
     header: "5. Abnahme und Veröffentlichung",
     description: `Nachdem du uns dein GO gegeben hast werden wir deine Website veröffentlichen und über unseren Server hosten. 
-                  Je nachdem bieten wir eine Schulung für unser eigenes Content Management Interface an,
+                  Je nachdem bieten wir eine Schulung für unser eigenes Content-Management-System an,
                    um anschließende Veränderungen an der Webseiten für dich möglich zu machen.`,
   },
   process6: {
@@ -169,7 +166,7 @@ export const faqContent = {
 export const kontaktContent = {
   title: "Kontakt",
   description: `Hier kannst du in direkten Kontakt mit unseren, am Projekt arbeitenden, 
-                Webdesignern treten, Um dein Anliegen zu deiner Zufriedenheit zu klären.`,
+                Webseiten Spezialisten treten, Um dein Anliegen zu deiner Zufriedenheit zu klären.`,
   buttonText: "Senden",
   kontaktBox: {
     header: "Kontakt Informationen",
